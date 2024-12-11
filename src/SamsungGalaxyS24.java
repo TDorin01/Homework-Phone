@@ -10,6 +10,6 @@ class SamsungGalaxyS24 extends Phone {
 
     @Override
     public String getModel() {
-        return "Galaxy S6";
+        return "Galaxy S24";
     }
 }
